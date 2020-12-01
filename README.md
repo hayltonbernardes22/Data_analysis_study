@@ -1,4 +1,4 @@
-# Data_Analytics_Study /// Estudo_Analise_Dados
+# Data_Analytics_Study // Estudo_Analise_Dados
 
 - Repository created to share some of my study documents for Data Analysis, Data Modeling and Statistics.
 
