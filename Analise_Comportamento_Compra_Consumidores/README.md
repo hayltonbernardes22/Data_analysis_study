@@ -2,4 +2,3 @@
 
 - Exemplo de análise de dados simples, utilizando um conjunto de dados kaggle, este repositório tem por objetivo ensinar um básico de analises e esse arquivo é um resumo do resultado final desse.
 
-
